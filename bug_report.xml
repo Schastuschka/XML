@@ -1,1 +1,8 @@
 
+<Title>Не переведена часть текста условия предоставления скидки с испанского на русский в описании ВИП -номера</Title>
+<Step to reproduсe>1. Зайти на сайт http//:superpuperhotel 2.Выбрать ВИП - номер 3.Опуститься вниз страницы и нажать кнопку "Скидки"</Step to reproduce>
+<Expected result>Текст полностью на русском языке</Expected result>
+<Actual result>Текст частично состоит из испанских слов</Actual result>
+<Severity>Незначительный</Severity>
+<Environment>Honor 50,Android 11.0,Tele2</Environment>
+
